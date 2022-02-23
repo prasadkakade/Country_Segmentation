@@ -1,5 +1,7 @@
 # Country_Segmentation
 
+* Run a script'NGO-Clustering assignment' with 'Country-data.csv' file as input
+
 ## Problem Statement:
 HELP international NGO has raised fund to fight poverty, providing basic amenities to the people of
 countries who are in direst need of it. Data for all countries with some essential variables is given. We need
